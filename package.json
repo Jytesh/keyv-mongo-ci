@@ -45,7 +45,7 @@
   },
   "homepage": "https://github.com/jaredwray/keyv-mongo",
   "dependencies": {
-    "mongojs": "^3",
+    "mongodb": "^4.2.0",
     "pify": "^5.0.0"
   },
   "devDependencies": {
